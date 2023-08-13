@@ -12,10 +12,10 @@ html[dir="ltr"] .myAppDemoWT .myCustomButton.sapMBtn {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
  }
 
- .icon {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%; /* Dostosuj wysokość do własnych potrzeb */
-}
+ .myAppDemoWT .changeCurrencyButton
+ {
+    float: right;
+    margin-right: 2.5%
+ }
+
 
